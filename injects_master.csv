@@ -1,0 +1,7 @@
+id,minute,phase,inject_type,message,expected_response,severity,artifact_reference
+A1,12,Signal,monitoring_alert,Monitoring: risk_score.mean delta +0.06 over baseline window (24h). Ticket RT-A1 created by Ops.,Assign triage owner within 15 min; run quick canary tests; notify ML-Ops.,medium,ticket:RT-A1
+A2,20,Signal,user_report,"Partner support: two cases reported with wrong outcomes (caseIDs S-1001,S-1002).","Validate sample predictions, check inputs, collect logs.",medium,cases:S-1001;S-1002
+B1,50,Ambiguity,ingest_file,New ingest file ingest_v2026_04_21.csv added to staging. Checksum mismatch (1 bit difference) and missing owner tag.,Run provenance lookup; quarantine ingest; block pipeline if no owner found.,high,file:ingest_v2026_04_21.csv
+B2,70,Ambiguity,training_job,Logs show training job completed with unknown run_id 'sandbox-xyz' in training cluster.,"Identify run origin, inspect artifacts, compare dataset hashes.",high,run:sandbox-xyz
+C1,125,Decision,media_inquiry,External media: 'Multiple customers report wrong risk decisions — are you aware?' Request for statement within 2 hours.,Legal + Comms draft holding statement; decide on internal communication cadence.,critical,media:press_inquiry_001
+C2,140,Decision,regulatory_notice,Simulated regulator notice indicating potential reportable incident for customer-impacting decisions.,Legal to assess mandatory reporting obligations; prepare regulator notice.,critical,regulatory:sim_notice_01

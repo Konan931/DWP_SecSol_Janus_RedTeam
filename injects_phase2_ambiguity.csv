@@ -1,0 +1,3 @@
+id,minute,phase,inject_type,message,expected_response,severity,artifact_reference
+B1,50,Ambiguity,ingest_file,New ingest file ingest_v2026_04_21.csv added to staging. Checksum mismatch (1 bit difference) and missing owner tag.,Run provenance lookup; quarantine ingest; block pipeline if no owner found.,high,file:ingest_v2026_04_21.csv
+B2,70,Ambiguity,training_job,Logs show training job completed with unknown run_id 'sandbox-xyz' in training cluster.,"Identify run origin, inspect artifacts, compare dataset hashes.",high,run:sandbox-xyz

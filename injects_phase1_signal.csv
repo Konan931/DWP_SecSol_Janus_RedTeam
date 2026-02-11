@@ -1,0 +1,3 @@
+id,minute,phase,inject_type,message,expected_response,severity,artifact_reference
+A1,12,Signal,monitoring_alert,Monitoring: risk_score.mean delta +0.06 over baseline window (24h). Ticket RT-A1 created by Ops.,Assign triage owner within 15 min; run quick canary tests; notify ML-Ops.,medium,ticket:RT-A1
+A2,20,Signal,user_report,"Partner support: two cases reported with wrong outcomes (caseIDs S-1001,S-1002).","Validate sample predictions, check inputs, collect logs.",medium,cases:S-1001;S-1002

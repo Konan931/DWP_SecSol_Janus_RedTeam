@@ -1,0 +1,3 @@
+id,minute,phase,inject_type,message,expected_response,severity,artifact_reference
+C1,125,Decision,media_inquiry,External media: 'Multiple customers report wrong risk decisions — are you aware?' Request for statement within 2 hours.,Legal + Comms draft holding statement; decide on internal communication cadence.,critical,media:press_inquiry_001
+C2,140,Decision,regulatory_notice,Simulated regulator notice indicating potential reportable incident for customer-impacting decisions.,Legal to assess mandatory reporting obligations; prepare regulator notice.,critical,regulatory:sim_notice_01

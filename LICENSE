@@ -11,7 +11,12 @@ All Rights Reserved.
 This License is a source-available research license under European civil law.  
 It does not constitute an Open Source license within the meaning of the Open Source Initiative (OSI).
 
-The primary purpose of this License is to promote scientific research and non-commercial collaboration while preserving derivative control and commercial sovereignty.
+## 1.1 Research Priority Statement
+
+The primary purpose of this License is to ensure that the Software remains accessible for scientific research and public-interest innovation.
+It's main cause is to promote scientific research and non-commercial collaboration while preserving derivative control and non-commercial sovereignty.
+
+All provisions of this License shall be interpreted in light of this objective.
 
 ---
 
@@ -19,7 +24,7 @@ The primary purpose of this License is to promote scientific research and non-co
 
 For the purposes of this License:
 
-**Licensor** means Digital Welfare Productions Unlimited GmbH.
+**Licensor** means Digital Welfare Productions™ Unlimited (GmbH).
 
 **Software** means the Janus Project source code, documentation, system architectures, agent frameworks, models, workflows, and associated materials.
 
@@ -184,3 +189,7 @@ The Licensor reserves the unconditional right to:
 This License is governed by the laws of the European Union.
 
 Place of jurisdiction, where legally permissible, is the registered office of the Licensor.
+
+The name "Digital Welfare Productions™" and all associated marks are protected trademarks.
+
+Use of the name in derivative works, forks, or redistributions requires prior written authorization.

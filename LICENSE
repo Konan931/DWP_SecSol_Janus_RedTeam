@@ -1,11 +1,186 @@
-MIT License
+# Janus Research & Control License (JRCL) v1.2
 
-Copyright (c) 2026 Digital Warfare Productions - DWP Security Solutions
+Copyright (c) 2026  
+Digital Welfare Productions™ Unltd. (GmbH)  
+All Rights Reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-... (standard MIT text shortened for brevity in repo; full text included here in file)
+---
+
+## 1. Legal Nature of This License
+
+This License is a source-available research license under European civil law.  
+It does not constitute an Open Source license within the meaning of the Open Source Initiative (OSI).
+
+The primary purpose of this License is to promote scientific research and non-commercial collaboration while preserving derivative control and commercial sovereignty.
+
+---
+
+## 2. Definitions
+
+For the purposes of this License:
+
+**Licensor** means Digital Welfare Productions Unlimited GmbH.
+
+**Software** means the Janus Project source code, documentation, system architectures, agent frameworks, models, workflows, and associated materials.
+
+**Non-Commercial Use** means use strictly for:
+- Academic research
+- Public-interest research
+- Private study
+- Non-profit experimentation
+- Non-commercial open collaboration
+
+Non-Commercial Use excludes any activity that directly or indirectly generates economic advantage.
+
+**Commercial Use** includes but is not limited to:
+- Sale, licensing, or sublicensing
+- SaaS or hosted services
+- Integration into proprietary systems
+- Internal deployment within for-profit entities
+- Paid consulting or monetized derivative works
+
+**Derivative Work** means any modified, adapted, forked, extended, or substantially based version of the Software.
+
+**High-Risk Deployment** means any use in:
+- Critical infrastructure
+- Military or defense systems
+- Surveillance systems
+- Law enforcement without explicit lawful basis
+- Medical, safety-critical, or life-support systems
+- Automated systems with material societal impact
+
+---
+
+## 3. Grant of Rights
+
+Subject to compliance with this License, the Licensor grants a:
+
+- Non-exclusive  
+- Non-transferable  
+- Worldwide  
+- Royalty-free  
+- Revocable  
+
+license to use, study, and modify the Software solely for Non-Commercial Use.
+
+No commercial rights are granted, implied, or transferred.
+
+---
+
+## 4. Research Priority Clause
+
+The Software is released to advance transparent research and responsible agent-system development.
+
+All permitted use must align with:
+- Scientific integrity
+- Public-interest technological development
+- European fundamental rights principles
+
+---
+
+## 5. Derivative Control and Reporting
+
+Derivative Works are permitted exclusively under the following conditions:
+
+1. Substantial modifications must be documented.
+2. A summary of changes must be reported to the Licensor.
+3. Publicly distributed Derivative Works must:
+   - Clearly identify modifications
+   - Retain this License in full
+   - Remain strictly Non-Commercial
+
+The Licensor retains the right to assess License compliance of publicly distributed Derivative Works.
+
+Failure to report substantial modifications results in automatic termination.
+
+---
+
+## 6. Commercial Licensing Reservation
+
+Any Commercial Use requires prior written agreement with the Licensor.
+
+The Licensor reserves the exclusive right to:
+- Offer dual licensing models
+- Conclude commercial licensing agreements
+- Define commercial conditions at its sole discretion
+- Refuse commercial licensing without obligation to justify
+
+No estoppel, implied rights, or legitimate expectations shall arise from public availability of the Software.
+
+---
+
+## 7. No High-Risk Deployment
+
+The Software may not be deployed in High-Risk Environments.
+
+Any such deployment:
+- Immediately terminates this License
+- Is undertaken solely at the user’s own risk
+- Releases the Licensor from all liability
+
+Users bear full responsibility under applicable EU and national regulatory frameworks.
+
+---
+
+## 8. Compliance with EU Law
+
+Use of the Software must comply with:
+- EU fundamental rights principles
+- GDPR where applicable
+- EU AI Act obligations where applicable
+- Applicable national law
+
+Violation results in automatic termination of rights granted under this License.
+
+---
+
+## 9. No Warranty
+
+To the maximum extent permitted by Directive 2009/24/EC and applicable civil law:
+
+THE SOFTWARE IS PROVIDED "AS IS"  
+WITHOUT ANY EXPRESS OR IMPLIED WARRANTY.
+
+---
+
+## 10. Limitation of Liability
+
+To the maximum extent permitted under applicable European law:
+
+The Licensor shall not be liable for:
+- Direct or indirect damages
+- Consequential loss
+- Regulatory penalties
+- Operational failure
+- Societal or economic harm
+- Damages arising from Derivative Works
+
+Liability for intent or gross negligence remains unaffected where mandatory law applies.
+
+---
+
+## 11. Termination
+
+Any breach results in immediate and automatic termination.
+
+Upon termination:
+- All rights cease
+- Use must stop immediately
+
+---
+
+## 12. Right to Re-License
+
+The Licensor reserves the unconditional right to:
+- Re-license the Software
+- Change licensing models for future versions
+- Offer commercial or dual licenses
+- Modify licensing terms prospectively
+
+---
+
+## 13. Governing Law and Jurisdiction
+
+This License is governed by the laws of the European Union.
+
+Place of jurisdiction, where legally permissible, is the registered office of the Licensor.
